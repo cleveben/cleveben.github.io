@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: 诗词歌赋
+title: 中国古代诗词歌赋
 email: cleveben@gmail.com
-description: 中国古典文学，唐诗宋词
+description: 中国古典文学，诗词歌赋，唐诗宋词
 url: https://www.iexpp.com # the base hostname & protocol for your site
-keywords: ["李白", "唐诗", "杜甫", "宋词"]
+keywords: ["李白", "唐诗", "杜甫", "宋词", "诗词歌赋", "古典文学"]
 
 #
 ###################################
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: 诗词歌赋
+  name: 中国古代诗词歌赋
   avatar: avatar.jpg
   job: 
   bio: 
