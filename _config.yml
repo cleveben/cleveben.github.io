@@ -45,7 +45,7 @@ owner:
     plus: #username
     analytics: 
     verify:
-    ad-client:
+    ad-client: ca-pub-4417209362374533
     ad-slot:
   bing-verify:
   github: #username
